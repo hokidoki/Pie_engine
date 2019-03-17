@@ -7,3 +7,5 @@ class of computer engineering design.
 파일 확장자는 egg X, hwp X, text파일 X. 반드시 조사본과 보고서는 워드, ppt 형태여야 하며 압축 파일으 zip파일로 해주시면 될 것 같습니다. 
 
 
+https://github.com/users/hokidoki/projects/1 
+<깃헙 파이엔진 프로젝트 링크>
