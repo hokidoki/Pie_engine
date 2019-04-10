@@ -1,0 +1,103 @@
+<-- ±³¼ö´ÔÀÇ PPT ³»¿ë -->
+Àü´Þ µ¥ÀÌÅÍ
+	Ä³¸¯ÅÍ »óÅÂ Á¤º¸
+		id(ÃÖ´ë 255) ÀÌ¸§(ÃÖ´ë 255) ¼ºº°(³²/¿©) ³ªÀÌ(0~99) HP(0~255) MP(0~255) coin(0~65535)
+	Ä³¸¯ÅÍ º¸À¯ ¾ÆÀÌÅÛµé ¹× °³¼ö
+		Ä³¸¯ÅÍ´Â ÃÖ´ë ÃÑ 255°³ÀÇ ¾ÆÀÌÅÛÀ» º¸À¯ÇÒ ¼ö ÀÖÀ½
+		ÇöÀç °ÔÀÓ¿¡¼­ Áö¿øµÇ´Â ¾ÆÀÌÅÛ ¸®½ºÆ®
+		¿¢½ºÄ®¸®¹ö, Èú¸µÆ÷¼Ç, ¶óÀÌÆ®¼¼ÀÌ¹ö, ÇÙÆøÅº, ¿öÇÁ(ÀÌÈÄ ½Å±Ô ¾ÆÀÌÅÛ Ãß°¡ °¡´É)
+	Ä£±¸¸®½ºÆ®
+		Ä£±¸´ç
+			id(ÃÖ´ë 255) ÀÌ¸§(ÃÖ´ë 255) ¼ºº°(³²/¿©)
+	º»ÀÎ ¼Ò°³ ±Û(ÃÖ´ë ÃµÀÚ, ¿µ¹® ´ë¹®ÀÚ, ¿£ÅÍÅ°)
+		¾ÐÃà ±â¹ýÀÇ ´Ü¼øÈ­¸¦ À§ÇØ ´ÙÀ½°ú °°Àº ¹®ÀÚ¿­ÀÌ µé¾î¿È
+			AABBCCABCAABFDGDFZQZQ
+Æò°¡ Ç×¸ñ
+	°ø°£ È¿À²¼º/°è»ê È¿À²¼º/
+	È®Àå¼º
+		(Ä³¸¯ÅÍ »óÅÂ Á¤º¸¸¦ Ãß°¡ÇÒ ¼ö ÀÖÀ¸¸é)
+	½Å·Ú¼º
+		receiver Ãø¿¡¼­ ´Ü¼øÈ÷ ÆÐÅ¶ º¯Á¶ ¿©ºÎ È®ÀÎ °¡´É ½Ã 20Á¡
+		¾î¶² µ¥ÀÌÅÍ Ç×¸ñÀÌ º¯Á¶µÇ¾ú´ÂÁö È®ÀÎ °¡´É ½Ã 10Á¡
+		Å×½ºÆ® ¹æ¹ý: ½ÇÁ¦ µ¥ÀÌÅÍ 1Ä­ÀÇ °ªÀ» º¯Á¶//
+	°¨Á¡¿ä¼Ò
+		Ç×¸ñ´ç 5Á¡ °¨Á¡
+		º»ÀÎ ¼Ò°³±Û ±ÛÀÚ´ç 1Á¡ °¨Á¡
+¿¹½Ã:
+	Ä³¸¯ÅÍ »óÅÂ Á¤º¸
+		id(KMU_CS) ÀÌ¸§(È«±æµ¿) ¼ºº°(³²) ³ªÀÌ(22) HP(120) MP(120) coin(1000)
+	Ä³¸¯ÅÍ º¸À¯ ¾ÆÀÌÅÛµé ¹× °³¼ö
+		¿¢½ºÄ®¸®¹ö 1°³, Èú¸µÆ÷¼Ç 105°³, ¶óÀÌÆ®¼¼ÀÌ¹ö 1°³
+	Ä£±¸¸®½ºÆ®
+		Ä£±¸1 id(KMU_CS1) ÀÌ¸§(±è±æµ¿) ¼ºº°(³²) ³ªÀÌ(21)
+		Ä£±¸2 id(KMU_CS2) ÀÌ¸§(ÀÌ±æµ¿) ¼ºº°(¿©) ³ªÀÌ(20)
+		Ä£±¸3 id(KMU_CS3) ÀÌ¸§(¹Ú±æµ¿) ¼ºº°(³²) ³ªÀÌ(19)
+	º»ÀÎ ¼Ò°³ ±Û
+		AABBBAAABBBCCDDEEFFGGHHIIFAFAFAFAFA(¿£ÅÍ)
+		HAHAHAAAAABBCBBCABBCBBCAAABBAAABB(¿£ÅÍ)
+		HAHAHAAAAABBCBBCABBCBBCAAABBAAABB(¿£ÅÍ)
+		HAHAHAAAAABBCBBCABBCBBCAAABBAAABB(¿£ÅÍ)
+		AAAAABBBBBAAABBBBCDBCDBCDBCDDDDFAFAFAFAFA(¿£ÅÍ)
+		ZZZKKZKZKZZKKZKZKZZKKZKZK		
+ppt ³»¿ë
+	ÇÁ·ÎÅäÄÝ ¼³¸í(ÀÎÄÚµù/µðÄÚµù)
+	½º·¹µù ±â¹ý ¼³¸í(ÆÀ¿ø ¿ªÇÒ ¹èºÐ)
+	º¯Á¶ ´ëÀÀ ±â¹ý (ÀÖÀ» °æ¿ì) ¿¹½Ã ¼³¸í
+	½Å±Ô¾ÆÀÌÅÛ Ãß°¡ ½Ã ÇÁ·ÎÅäÄÝ µ¿ÀÛ ¼³¸í
+----------------------------------------------------------------------
+<-- ¿ì¸® PPT ³»¿ë -->
+<-- ÇÁ·ÎÅäÄÝ ¼³¸í -->
+<-- º¯Á¶ ´ëÀÀ -->('=>'·Î Ç¥½ÃÇÔ)
+¼ýÀÚ µ¥ÀÌÅÍ: ÇÑ±ÛÀ» »ç¿ëÇÏ¿© 1000Áø¼ö¿¡ ´ëÀÔ(´Ü, id³ª ÀÌ¸§¿¡ µé¾î°£ ¼ýÀÚ´Â Á¦¿Ü µÊ)(´Ü, ¼ºº°°ú ³ªÀÌ¸¦ ³ªÅ¸³¾ ¶§ Áß¼º°ú Á¾¼º¸¸À» »ç¿ëÇÔ Áï, 100Áø¼ö Ã¼°è¸¦ »ç¿ëÇÔ)
+		0	1	2	3	4	5	6	7	8	9
+ÃÊ¼º	¹é	¤¡	¤¤	¤§	¤©	¤±	¤²	¤µ	¤·	¤¸	¤º
+Áß¼º	½Ê	¤¿	¤Á	¤Ã	¤Å	¤Ç	¤Ë	¤Ì	¤Ð	¤Ñ	¤Ó
+Á¾¼º	ÀÏ	¤¡	¤¤	¤§	¤©	¤±	¤²	¤µ	¤·	¤¸	¤º
+°¢(1000) == 000(10)	¯‚(1000) == 999(10)	°£¯‚(1000) == 1999(10)
+¹®ÀÚ µ¥ÀÌÅÍ
+	¿µ¾î´Â ÇÑ±ÛÅ°º¸µå ÀÚÆÇÀ» ÀÌ¿ëÇÏ¿© Ä¡È¯ÇÔ(´Ü, ´ë¹®ÀÚ´Â Á¦¿ÜÇÔ)(´Ü, º»ÀÎ ¼Ò°³ ±ÛÀº ´Ù¸¥ ¹æ¹ýÀÇ ÇÁ·ÎÅäÄÝÀ» »ç¿ë)
+		red == ¤¡¤§¤· 	Apple == A¤Ä¤Ä¤Ó¤§	snack == ´®Â÷
+	±¹¾î, ¼ýÀÚ, Æ¯¼ö¹®ÀÚ´Â ±×´ë·Î ±âÀÔ(´Ü, ¾ÆÀÌÅÛÀÇ Á¾·ù¸¦ ³ªÅ¸³¾ ¶§´Â Ã¹ ±ÛÀÚ¸¸ ¶¡)
+		ÀÌº´·ü == ÀÌº´·ü	123 == 123	!@# == !@#
+º»ÀÎ¼Ò°³±Û Ã³¸®¹ý
+	Áßº¹µÇ´Â ¾ËÆÄºªÀÌ ÀÖÀ¸¸é ¾ËÆÄºªÀ» Àû°í ¹Ýº¹ È¸¼ö¸¦ ¼ýÀÚµ¥ÀÌÅÍ Ã³¸®¹ý »ç¿ëÇÏ¿© Ã³¸®(´Ü, 2~9 ÀÚ¸®¼ö´Â ±×´ë·Î »ç¿ë)
+		AAAABBAC == A4B2AC	AAAAAAAAAA(10¹ø ¹Ýº¹) == A°½
+°¢ µ¥ÀÌÅÍ´Â Á¶°Ç¿¡ ºÎÇÕÇÏ´Â ¹æ¹ýÀ¸·Î ¹­ÀÌ°Å³ª Ç®¸²
+(º¯Á¶ ´ëÀÀ¹ýÀÌ ÀÖÀ» °æ¿ì ±â¼úÇÔ / ½Å±Ô ¾ÆÀÌÅÛ Ãß°¡ °ü·Ã Á¤º¸´Â ¾ÆÀÌÅÛ¿¡ ±â¼úÇÔ)
+	id + ¼ºº° + ³ªÀÌ + ÀÌ¸§/
+		id == ¹®ÀÚµ¥ÀÌÅÍ Ã³¸®¹ý »ç¿ë
+		¼ºº° == ÃÊ¼º¿¡ ³ªÅ¸³¿(³²ÀÚ == ¤¤, ¿©ÀÚ == ¤·) => Áï '¤¤' ¶Ç´Â '¤·'ÀÌ ¾Æ´Ò °æ¿ì º¯Á¶°¡ ³ªÅ¸³­°ÍÀ¸·Î ÆÇ´Ü °¡´É
+		³ªÀÌ == Áß¼º°ú Á¾¼ºÀ» »ç¿ëÇÏ¿© ³ªÅ¸³¿(Áï 100Áø¼ö Ã¼°è)
+		ÀÌ¸§ == ¹®ÀÚµ¥ÀÌÅÍ Ã³¸®¹ý »ç¿ë
+	HP + MP/
+		HP == ¼ýÀÚµ¥ÀÌÅÍ Ã³¸®¹ý »ç¿ë => Áï ¼ö°¡ ÃÖ´ëÄ¡¸¦ ÃÊ°ú ÇÏ¿´À» ¶§ º¯Á¶°¡ ³ªÅ¸³­°ÍÀ¸·Î ÆÇ´Ü °¡´É
+		MP == ¼ýÀÚµ¥ÀÌÅÍ Ã³¸®¹ý »ç¿ë => Áï ¼ö°¡ ÃÖ´ëÄ¡¸¦ ÃÊ°ú ÇÏ¿´À» ¶§ º¯Á¶°¡ ³ªÅ¸³­°ÍÀ¸·Î ÆÇ´Ü °¡´É
+	coin /
+		coin == ¼ýÀÚµ¥ÀÌÅÍ Ã³¸®¹ý »ç¿ë => Áï ¼ö°¡ ÃÖ´ëÄ¡¸¦ ÃÊ°ú ÇÏ¿´À» ¶§ º¯Á¶°¡ ³ªÅ¸³­°ÍÀ¸·Î ÆÇ´Ü °¡´É
+				(´Ü, 999¸¦ ³ÑÁö ¾È´õ¶óµµ µÎ ÀÚ¸´¼ö·Î Ç¥½Ã)
+	i + ¾ÆÀÌÅÛ Á¾·ù + ¾ÆÀÌÅÛ °³¼ö/(°³¼ö¸¸Å­ ¹Ýº¹)
+		i or I == Á¤º¸¸¦ ½Äº°ÇÏ±â À§ÇÑ ½Äº°ÀÚ(itemÀÇ ¾àÀÚ)
+		¾ÆÀÌÅÛ Á¾·ù == ¾ÆÀÌÅÛÀÇ ¾Õ±ÛÀÚ¸¦ µû¼­ ÀûÀ½
+		¾ÆÀÌÅÛ °³¼ö == ¼ýÀÚ µ¥ÀÌÅÍ Ã³¸®¹ý »ç¿ë => Áï ¼öÀÇ ÇÕÀÌ ÃÖ´ëÄ¡¸¦ ÃÊ°ú ÇÏ¿´À» ¶§ º¯Á¶°¡ ³ªÅ¸³­°ÍÀ¸·Î ÆÇ´Ü °¡´É
+	f + id + ¼ºº° + ³ªÀÌ + ÀÌ¸§/(°³¼ö¸¸Å­ ¹Ýº¹)
+		f or F == Á¤º¸¸¦ ½Äº°ÇÏ±â À§ÇÑ ½Äº°ÀÚ(friend)
+		³ª¸ÓÁö µ¥ÀÌÅÍ == Ä³¸¯ÅÍ »óÅÂ Á¤º¸ Ç¥½Ã¿Í µ¿ÀÏÇÏ°Ô Ç¥Çö
+	!(Ã³À½¿¡¸¸) + º»ÀÎ¼Ò°³±Û(¿£ÅÍ³ª ³¡±îÁö)/(°³¼ö¸¸Å­ ¹Ýº¹)
+		! == Á¤º¸¸¦ ½Äº°ÇÏ±â À§ÇÑ ½Äº°ÀÚ(ÀÇ¹Ì X)
+		º»ÀÎ¼Ò°³±Û == º»ÀÎ¼Ò°³±Û Ã³¸®¹ý »ç¿ë
+<-- ½º·¹µù ±â¹ý -->
+	sender 2¸í	receiver 3¸í
+		sender ¾î¶»°Ô ÇÏ¼Ì³ª¿ä...?
+		receiver
+			Ä³¸¯ÅÍ »óÅÂ Á¤º¸ / ¾ÆÀÌÅÛ / Ä£±¸¸®½ºÆ®¸¦ °¢ÀÚ ¸Ã°í
+			³¡³ª¸é ¼ø¼­´ë·Î º»ÀÎ¼Ò°³±Û 1¹øÂ° / º»ÀÎ¼Ò°³±Û ¸¶Áö¸·¹øÂ° / Á¾ÀÌ¿¡ µ¥ÀÌÅÍ ±âÀÔ¸¦ ¸ÃÀ½
+<-- ½Å±Ô¾ÆÀÌÅÛ Ãß°¡½Ã -->
+	½Å±Ô ¾ÆÀÌÅÛÀÇ ¸Ç ¾Õ±ÛÀÚ¸¦ µû¼­ ¾ÆÀÌÅÛ Á¾·ù ¸ñ·Ï¿¡ Ãß°¡ÇÔ
+		(´Ü, ¸Ç ¾Õ ±ÛÀÚ°¡ Àü¿¡ ÀÖ´ø ´Ù¸¥ ¾ÆÀÌÅÛ°ú °ãÄ£´Ù¸é »ç¿ëºÒ°¡)
+<-- °íÄ£´Ù¸é... -->
+°¢ ¹®ÀÚ¿­ ¾Õ¿¡ ¹®ÀÚ¿­¿¡ ±æÀÌ¸¦ ¼ýÀÚµ¥ÀÌÅÍ Çü½ÄÀ¸·Î ÀÔ·ÂÇÔ => Á¤È®ÇÑ ÇØ¼®À» À§ÇØ
+¾ÆÀÌÅÛ Á¾·ù¸¦ ¼ýÀÚ µ¥ÀÌÅÍ Çü½ÄÀ¸·Î ¼³Á¤ÇÔ => ¾ÆÀÌÅÛ È®Àå¼ºÀ» ³ôÀÌ±â À§ÇØ
+
+<-- Âü°í -->
+¿¹½Ã¸¦ ÄÚµåÈ­
+KMU_CS†›È«±æµ¿/³Ë³Ë/°£°¢/i¿¢°£/iÈú³³/i¶ó°£/fKMU_CS1³Í±è±æµ¿/fKMU_CS2¾ïÀÌ±æµ¿/fKMU_CS3†q¹Ú±æµ¿/!A2B3A3B3C2D2E2F2G2H2I2FAFAFAFAFA/HAHAHA5B2CB2CAB2CB2CA3B2A3B2/HAHAHA5B2CB2CAB2CB2CA3B2A3B2/HAHAHA5B2CB2CAB2CB2CA3B2A3B2/A5B5A3B4CDBCDBCDBCD4FAFAFAFAFA/Z3K2ZKZKZ2K2ZKZKZ2K2ZKZK/
